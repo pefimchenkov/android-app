@@ -1,0 +1,1 @@
+.. изучение Native Script 
